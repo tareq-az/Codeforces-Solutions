@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0053-maximum-subarray) |
 | [1013-fibonacci-number](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1013-fibonacci-number) |
 | [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
 ## Recursion
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
 | [3227-find-missing-and-repeated-values](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
