@@ -1,0 +1,13 @@
+name: Sync Past Submissions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: xyping/codeforces-to-github@v1.0.3
+        with:
+          handle: taraqaziz508
