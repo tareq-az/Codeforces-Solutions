@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: xyping/codeforces-to-github@v1.0.3
+      - uses: garimasingh128/codeforces-sync-action@v1.0.1
         with:
-          handle: taraqaziz508
+          max_submissions: 500
