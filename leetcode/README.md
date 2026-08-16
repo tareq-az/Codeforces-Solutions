@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0020-valid-parentheses) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3349-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
