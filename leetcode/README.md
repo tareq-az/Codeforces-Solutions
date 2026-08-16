@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0792-binary-search](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0792-binary-search) |
+| [3227-find-missing-and-repeated-values](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
+| [3227-find-missing-and-repeated-values](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3349-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1013-fibonacci-number](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1013-fibonacci-number) |
 | [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
+| [3227-find-missing-and-repeated-values](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,4 +118,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
+| [3227-find-missing-and-repeated-values](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3227-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
