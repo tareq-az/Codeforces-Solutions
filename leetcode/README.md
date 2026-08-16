@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0047-permutations-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3349-maximum-length-substring-with-two-occurrences) |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
