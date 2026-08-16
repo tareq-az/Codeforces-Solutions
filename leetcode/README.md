@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0047-permutations-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0792-binary-search) |
 ## Math
 |  |
