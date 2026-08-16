@@ -34,10 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1013-fibonacci-number) |
+| [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1013-fibonacci-number) |
+| [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -50,4 +52,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Minimax
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
