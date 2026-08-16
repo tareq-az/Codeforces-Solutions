@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
 | [0792-binary-search](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0792-binary-search) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3349-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
 |  |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/1013-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
