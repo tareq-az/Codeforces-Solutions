@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0792-binary-search](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0792-binary-search) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3349-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0020-valid-parentheses) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
