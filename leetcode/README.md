@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0792-binary-search](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0792-binary-search) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0088-merge-sorted-array) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
