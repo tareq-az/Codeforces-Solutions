@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0001-two-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
 | [0792-binary-search](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0792-binary-search) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0128-longest-consecutive-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tareq-az/Codeforces-Solutions/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 <!---LeetCode Topics End-->
