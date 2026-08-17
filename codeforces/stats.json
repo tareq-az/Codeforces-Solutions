@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 4,
+    "newbie": 5,
     "shas": {
       "2245_A - Who Watches the Watchpig?": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2253_A - The Best Card": {
         "category": "newbie",
         "rating": 800
       },
@@ -16,12 +20,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "2253_A - The Best Card": {
+      "2252_A - Boss Fight": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 4,
+    "solved": 5,
     "specialist": 0
   }
 }
