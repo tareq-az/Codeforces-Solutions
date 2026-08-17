@@ -1,15 +1,19 @@
 {
   "codeforces": {
-    "solved": 1,
-    "newbie": 1,
-    "specialist": 0,
     "expert": 0,
     "master": 0,
+    "newbie": 2,
     "shas": {
       "2245_A - Who Watches the Watchpig?": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2256_A - Three Numbers on the Blackboard": {
         "rating": 800,
         "category": "newbie"
       }
-    }
+    },
+    "solved": 2,
+    "specialist": 0
   }
 }
