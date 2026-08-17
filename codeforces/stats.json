@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 5,
+    "newbie": 6,
     "shas": {
       "2245_A - Who Watches the Watchpig?": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2252_A - Boss Fight": {
         "category": "newbie",
         "rating": 800
       },
@@ -20,12 +24,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "2252_A - Boss Fight": {
-        "rating": 800,
+      "2257_B - Gigantomachy": {
+        "rating": "Unrated",
         "category": "newbie"
       }
     },
-    "solved": 5,
+    "solved": 6,
     "specialist": 0
   }
 }
