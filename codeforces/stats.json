@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 3,
+    "newbie": 4,
     "shas": {
       "2245_A - Who Watches the Watchpig?": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2254_A - Riptide": {
         "category": "newbie",
         "rating": 800
       },
@@ -12,12 +16,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "2254_A - Riptide": {
+      "2253_A - The Best Card": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 3,
+    "solved": 4,
     "specialist": 0
   }
 }
