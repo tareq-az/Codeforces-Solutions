@@ -2,18 +2,22 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 2,
+    "newbie": 3,
     "shas": {
       "2245_A - Who Watches the Watchpig?": {
         "category": "newbie",
         "rating": 800
       },
       "2256_A - Three Numbers on the Blackboard": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2254_A - Riptide": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 2,
+    "solved": 3,
     "specialist": 0
   }
 }
