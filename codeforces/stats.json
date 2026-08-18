@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 7,
+    "newbie": 8,
     "shas": {
+      "2242_A - Bigrams": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2245_A - Who Watches the Watchpig?": {
         "category": "newbie",
         "rating": 800
@@ -28,12 +32,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2242_A - Bigrams": {
-        "rating": 800,
+      "2257_A - Creating Abbreviations": {
+        "rating": "Unrated",
         "category": "newbie"
       }
     },
-    "solved": 7,
+    "solved": 8,
     "specialist": 0
   }
 }
