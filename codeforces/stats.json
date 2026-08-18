@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 6,
+    "newbie": 7,
     "shas": {
       "2245_A - Who Watches the Watchpig?": {
         "category": "newbie",
@@ -25,11 +25,15 @@
         "rating": 800
       },
       "2257_B - Gigantomachy": {
-        "rating": "Unrated",
+        "category": "newbie",
+        "rating": "Unrated"
+      },
+      "2242_A - Bigrams": {
+        "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 6,
+    "solved": 7,
     "specialist": 0
   }
 }
