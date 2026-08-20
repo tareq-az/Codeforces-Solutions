@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 11,
+    "newbie": 12,
     "shas": {
+      "2240_A - Another Popcount Problem": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2241_A - Divide and Conquer": {
         "category": "newbie",
         "rating": 800
@@ -44,12 +48,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2240_A - Another Popcount Problem": {
+      "2238_A - Another Puzzle from Papyrus": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 11,
+    "solved": 12,
     "specialist": 0
   }
 }
