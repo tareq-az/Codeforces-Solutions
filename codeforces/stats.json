@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 8,
+    "newbie": 9,
     "shas": {
       "2242_A - Bigrams": {
         "category": "newbie",
@@ -28,16 +28,20 @@
         "category": "newbie",
         "rating": 800
       },
+      "2257_A - Creating Abbreviations": {
+        "category": "newbie",
+        "rating": "Unrated"
+      },
       "2257_B - Gigantomachy": {
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2257_A - Creating Abbreviations": {
-        "rating": "Unrated",
+      "2244_A - Iskander and Drawings": {
+        "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 8,
+    "solved": 9,
     "specialist": 0
   }
 }
