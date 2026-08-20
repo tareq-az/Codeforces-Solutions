@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 9,
+    "newbie": 10,
     "shas": {
       "2242_A - Bigrams": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2244_A - Iskander and Drawings": {
         "category": "newbie",
         "rating": 800
       },
@@ -36,12 +40,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2244_A - Iskander and Drawings": {
+      "2241_A - Divide and Conquer": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 9,
+    "solved": 10,
     "specialist": 0
   }
 }
