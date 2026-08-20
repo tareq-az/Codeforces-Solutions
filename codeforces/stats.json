@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 10,
+    "newbie": 11,
     "shas": {
+      "2241_A - Divide and Conquer": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2242_A - Bigrams": {
         "category": "newbie",
         "rating": 800
@@ -40,12 +44,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2241_A - Divide and Conquer": {
+      "2240_A - Another Popcount Problem": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 10,
+    "solved": 11,
     "specialist": 0
   }
 }
