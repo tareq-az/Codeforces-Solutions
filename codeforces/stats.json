@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 13,
+    "newbie": 14,
     "shas": {
+      "2236_A - Games on the Train": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2238_A - Another Puzzle from Papyrus": {
         "category": "newbie",
         "rating": 800
@@ -52,12 +56,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2236_A - Games on the Train": {
+      "2234_B - Palindrome, Twelve and Two Terms": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 13,
+    "solved": 14,
     "specialist": 0
   }
 }
