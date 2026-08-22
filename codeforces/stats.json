@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 15,
+    "newbie": 16,
     "shas": {
+      "2233_A - AI Project Development": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2234_B - Palindrome, Twelve and Two Terms": {
         "category": "newbie",
         "rating": 800
@@ -60,12 +64,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2233_A - AI Project Development": {
+      "2232_A - Convergence": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 15,
+    "solved": 16,
     "specialist": 0
   }
 }
