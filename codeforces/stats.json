@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 16,
+    "newbie": 17,
     "shas": {
+      "2232_A - Convergence": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2233_A - AI Project Development": {
         "category": "newbie",
         "rating": 800
@@ -64,12 +68,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2232_A - Convergence": {
+      "2225_A - A Number Between Two Others": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 16,
+    "solved": 17,
     "specialist": 0
   }
 }
