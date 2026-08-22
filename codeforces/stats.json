@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 14,
+    "newbie": 15,
     "shas": {
+      "2234_B - Palindrome, Twelve and Two Terms": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2236_A - Games on the Train": {
         "category": "newbie",
         "rating": 800
@@ -56,12 +60,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2234_B - Palindrome, Twelve and Two Terms": {
+      "2233_A - AI Project Development": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 14,
+    "solved": 15,
     "specialist": 0
   }
 }
