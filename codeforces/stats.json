@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 17,
+    "newbie": 18,
     "shas": {
+      "2225_A - A Number Between Two Others": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2232_A - Convergence": {
         "category": "newbie",
         "rating": 800
@@ -68,12 +72,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2225_A - A Number Between Two Others": {
+      "2220_A - Blocked": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 17,
+    "solved": 18,
     "specialist": 0
   }
 }
