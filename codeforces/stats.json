@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 18,
+    "newbie": 19,
     "shas": {
+      "2220_A - Blocked": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2225_A - A Number Between Two Others": {
         "category": "newbie",
         "rating": 800
@@ -72,12 +76,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2220_A - Blocked": {
+      "2176_A - Operations with Inversions": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 18,
+    "solved": 19,
     "specialist": 0
   }
 }
