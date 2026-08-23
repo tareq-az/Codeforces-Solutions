@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 22,
+    "newbie": 23,
     "shas": {
+      "2170_A - Maximum Neighborhood": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2176_A - Operations with Inversions": {
         "category": "newbie",
         "rating": 800
@@ -88,12 +92,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2170_A - Maximum Neighborhood": {
+      "2167_C - Isamatdin and His Magic Wand!": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 22,
+    "solved": 23,
     "specialist": 0
   }
 }
