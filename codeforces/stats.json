@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 23,
+    "newbie": 24,
     "shas": {
+      "2167_C - Isamatdin and His Magic Wand!": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2170_A - Maximum Neighborhood": {
         "category": "newbie",
         "rating": 800
@@ -92,12 +96,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2167_C - Isamatdin and His Magic Wand!": {
+      "2157_A - Dungeon Equilibrium": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 23,
+    "solved": 24,
     "specialist": 0
   }
 }
