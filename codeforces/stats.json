@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 19,
+    "newbie": 20,
     "shas": {
+      "2176_A - Operations with Inversions": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2220_A - Blocked": {
         "category": "newbie",
         "rating": 800
@@ -76,12 +80,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2176_A - Operations with Inversions": {
+      "2179_A - Blackslex and Password": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 19,
+    "solved": 20,
     "specialist": 0
   }
 }
