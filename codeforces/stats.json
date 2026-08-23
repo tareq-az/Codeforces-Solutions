@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 24,
+    "newbie": 25,
     "shas": {
+      "2157_A - Dungeon Equilibrium": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2167_C - Isamatdin and His Magic Wand!": {
         "category": "newbie",
         "rating": 800
@@ -96,12 +100,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2157_A - Dungeon Equilibrium": {
+      "2148_A - Sublime Sequence": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 24,
+    "solved": 25,
     "specialist": 0
   }
 }
