@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 25,
+    "newbie": 26,
     "shas": {
+      "2148_A - Sublime Sequence": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2157_A - Dungeon Equilibrium": {
         "category": "newbie",
         "rating": 800
@@ -100,12 +104,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2148_A - Sublime Sequence": {
+      "2136_A - In the Dream": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 25,
+    "solved": 26,
     "specialist": 0
   }
 }
