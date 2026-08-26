@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 26,
+    "newbie": 27,
     "shas": {
+      "2136_A - In the Dream": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2148_A - Sublime Sequence": {
         "category": "newbie",
         "rating": 800
@@ -104,12 +108,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2136_A - In the Dream": {
+      "2143_A - All Lengths Subtraction": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 26,
+    "solved": 27,
     "specialist": 0
   }
 }
