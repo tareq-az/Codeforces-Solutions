@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 29,
+    "newbie": 30,
     "shas": {
       "2136_A - In the Dream": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2141_A - Furniture Store": {
         "category": "newbie",
         "rating": 800
       },
@@ -116,12 +120,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2141_A - Furniture Store": {
+      "2140_A - Shift Sort": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 29,
+    "solved": 30,
     "specialist": 0
   }
 }
