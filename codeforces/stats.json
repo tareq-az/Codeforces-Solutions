@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 28,
+    "newbie": 29,
     "shas": {
       "2136_A - In the Dream": {
         "category": "newbie",
@@ -53,6 +53,10 @@
         "rating": 800
       },
       "2233_A - AI Project Development": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2234_A - Euclid, Sequence and Two Numbers": {
         "category": "newbie",
         "rating": 800
       },
@@ -112,12 +116,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2234_A - Euclid, Sequence and Two Numbers": {
+      "2141_A - Furniture Store": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 28,
+    "solved": 29,
     "specialist": 0
   }
 }
