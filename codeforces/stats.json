@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 27,
+    "newbie": 28,
     "shas": {
       "2136_A - In the Dream": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2143_A - All Lengths Subtraction": {
         "category": "newbie",
         "rating": 800
       },
@@ -108,12 +112,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2143_A - All Lengths Subtraction": {
+      "2234_A - Euclid, Sequence and Two Numbers": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 27,
+    "solved": 28,
     "specialist": 0
   }
 }
