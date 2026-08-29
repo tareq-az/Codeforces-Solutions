@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 31,
+    "newbie": 32,
     "shas": {
       "2136_A - In the Dream": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2139_A - Maple and Multiplication": {
         "category": "newbie",
         "rating": 800
       },
@@ -124,12 +128,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2139_A - Maple and Multiplication": {
+      "2137_A - Collatz Conjecture": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 31,
+    "solved": 32,
     "specialist": 0
   }
 }
