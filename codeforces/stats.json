@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 30,
+    "newbie": 31,
     "shas": {
       "2136_A - In the Dream": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2140_A - Shift Sort": {
         "category": "newbie",
         "rating": 800
       },
@@ -120,12 +124,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2140_A - Shift Sort": {
+      "2139_A - Maple and Multiplication": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 30,
+    "solved": 31,
     "specialist": 0
   }
 }
