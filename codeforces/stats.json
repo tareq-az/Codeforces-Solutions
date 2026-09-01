@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 9,
+    "newbie": 10,
     "shas": {
       "2123_B - Tournament": {
         "category": "newbie",
@@ -37,11 +37,15 @@
         "rating": 800
       },
       "2139_A - Maple and Multiplication": {
-        "rating": 800,
+        "category": "newbie",
+        "rating": 800
+      },
+      "2254_B - Evanescent": {
+        "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 9,
+    "solved": 10,
     "specialist": 0
   }
 }
