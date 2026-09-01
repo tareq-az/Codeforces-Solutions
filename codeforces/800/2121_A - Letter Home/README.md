@@ -1,0 +1,29 @@
+<h2><a href="https://codeforces.com/contest/2121/problem/A" target="_blank" rel="noopener noreferrer">2121A — Letter Home</a></h2>
+
+| | |
+|---|---|
+| **Difficulty** | 800 |
+| **Language** | C++20 (GCC 13-64) |
+| **Verdict** | ✅ Accepted |
+| **Problem Link** | [Codeforces 2121A](https://codeforces.com/contest/2121/problem/A) |
+
+## Topics
+`brute force` `math`
+
+---
+
+## Problem Statement
+
+<div class="header"><div class="title">A. Letter Home</div><div class="time-limit"><div class="property-title">time limit per test</div>1 second</div><div class="memory-limit"><div class="property-title">memory limit per test</div>256 megabytes</div><div class="input-file input-standard"><div class="property-title">input</div>standard input</div><div class="output-file output-standard"><div class="property-title">output</div>standard output</div></div><div><p>You are given an array of distinct integers $$$x_1, x_2, \ldots, x_n$$$ and an integer $$$s$$$. </p><p>Initially, you are at position $$$pos = s$$$ on the $$$X$$$ axis. In one step, you can perform exactly one of the following two actions:</p><ul><li> Move from position $$$pos$$$ to position $$$pos + 1$$$. </li><li> Move from position $$$pos$$$ to position $$$pos - 1$$$. </li></ul><p>A sequence of steps will be considered successful if, during the entire journey, you visit each position $$$x_i$$$ on the $$$X$$$ axis at least once. Note that the initial position $$$pos = s$$$ is also considered visited. </p><p>Your task is to determine the minimum number of steps in any successful sequence of steps.</p></div><div class="input-specification"><div class="section-title">Input</div><p>Each test consists of multiple test cases. The first line contains a single integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of test cases. The description of the test cases follows.</p><p>The first line of each test case contains two integers $$$n$$$ and $$$s$$$ ($$$1 \leq n \leq 10$$$, $$$1 \leq s \leq 100$$$) — the number of positions to visit and the starting position. </p><p>The second line of each test case contains $$$n$$$ integers $$$x_1, x_2, \ldots, x_n$$$ ($$$1 \leq x_i \leq 100$$$). It is guaranteed that for all $$$1 \leq i  \lt  n$$$, it holds that $$$x_i  \lt  x_{i + 1}$$$.</p></div><div class="output-specification"><div class="section-title">Output</div><p>For each test case, output the minimum number of steps in any successful sequence of steps.</p></div><div class="sample-tests"><div class="section-title">Example</div><div class="sample-test"><div class="input"><div class="title">Input<div title="Copy" data-clipboard-target="#id008876903115541713" id="id0018282593404541492" class="input-output-copier">Copy</div></div><pre id="id008876903115541713"><div class="test-example-line test-example-line-even test-example-line-0">12</div><div class="test-example-line test-example-line-odd test-example-line-1">1 1</div><div class="test-example-line test-example-line-odd test-example-line-1">1</div><div class="test-example-line test-example-line-even test-example-line-2">1 2</div><div class="test-example-line test-example-line-even test-example-line-2">1</div><div class="test-example-line test-example-line-odd test-example-line-3">1 1</div><div class="test-example-line test-example-line-odd test-example-line-3">2</div><div class="test-example-line test-example-line-even test-example-line-4">2 1</div><div class="test-example-line test-example-line-even test-example-line-4">2 3</div><div class="test-example-line test-example-line-odd test-example-line-5">2 2</div><div class="test-example-line test-example-line-odd test-example-line-5">1 3</div><div class="test-example-line test-example-line-even test-example-line-6">2 3</div><div class="test-example-line test-example-line-even test-example-line-6">1 2</div><div class="test-example-line test-example-line-odd test-example-line-7">3 1</div><div class="test-example-line test-example-line-odd test-example-line-7">1 2 3</div><div class="test-example-line test-example-line-even test-example-line-8">3 2</div><div class="test-example-line test-example-line-even test-example-line-8">1 3 4</div><div class="test-example-line test-example-line-odd test-example-line-9">3 3</div><div class="test-example-line test-example-line-odd test-example-line-9">1 2 3</div><div class="test-example-line test-example-line-even test-example-line-10">4 3</div><div class="test-example-line test-example-line-even test-example-line-10">1 2 3 10</div><div class="test-example-line test-example-line-odd test-example-line-11">5 5</div><div class="test-example-line test-example-line-odd test-example-line-11">1 2 3 6 7</div><div class="test-example-line test-example-line-even test-example-line-12">6 6</div><div class="test-example-line test-example-line-even test-example-line-12">1 2 3 9 10 11</div></pre></div><div class="output"><div class="title">Output<div title="Copy" data-clipboard-target="#id003716271897299154" id="id003437549240733986" class="input-output-copier">Copy</div></div><pre id="id003716271897299154">0
+1
+1
+2
+3
+2
+2
+4
+2
+11
+8
+15
+</pre></div></div></div><div class="note"><div class="section-title">Note</div><p>In the first test case, no steps need to be taken, so the only visited position will be $$$1$$$. </p><p>In the second test case, the following path can be taken: $$$2 \rightarrow 1$$$. The number of steps is $$$1$$$. </p><p>In the third test case, the following path can be taken: $$$1 \rightarrow 2$$$. The number of steps is $$$1$$$.</p><p>In the fifth test case, the following path can be taken: $$$2 \rightarrow 1 \rightarrow 2 \rightarrow 3$$$. The number of steps is $$$3$$$.</p></div>
