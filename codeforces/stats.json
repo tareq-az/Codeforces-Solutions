@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 6,
+    "newbie": 7,
     "shas": {
       "2123_B - Tournament": {
         "category": "newbie",
@@ -25,11 +25,15 @@
         "rating": 800
       },
       "2133_B - Villagers": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2134_A - Painting With Two Colors": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 6,
+    "solved": 7,
     "specialist": 0
   }
 }
