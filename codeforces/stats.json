@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 12,
+    "newbie": 13,
     "shas": {
+      "2121_A - Letter Home": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2123_B - Tournament": {
         "category": "newbie",
         "rating": 800
@@ -48,12 +52,12 @@
         "category": "newbie",
         "rating": 900
       },
-      "2121_A - Letter Home": {
-        "rating": 800,
+      "2247_B - Yet Another Constructive": {
+        "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 12,
+    "solved": 13,
     "specialist": 0
   }
 }
