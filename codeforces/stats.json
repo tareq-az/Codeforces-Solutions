@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 5,
+    "newbie": 6,
     "shas": {
       "2123_B - Tournament": {
         "category": "newbie",
@@ -21,11 +21,15 @@
         "rating": 800
       },
       "2133_A - Redstone?": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2133_B - Villagers": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 5,
+    "solved": 6,
     "specialist": 0
   }
 }
