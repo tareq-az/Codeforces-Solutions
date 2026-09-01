@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 10,
+    "newbie": 11,
     "shas": {
       "2123_B - Tournament": {
         "category": "newbie",
@@ -41,11 +41,15 @@
         "rating": 800
       },
       "2254_B - Evanescent": {
-        "rating": 900,
+        "category": "newbie",
+        "rating": 900
+      },
+      "2131_A - Lever": {
+        "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 10,
+    "solved": 11,
     "specialist": 0
   }
 }
