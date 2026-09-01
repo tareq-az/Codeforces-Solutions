@@ -2,9 +2,13 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 4,
+    "newbie": 5,
     "shas": {
       "2123_B - Tournament": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2127_A - Mix Mex Max": {
         "category": "newbie",
         "rating": 800
       },
@@ -16,12 +20,12 @@
         "category": "newbie",
         "rating": 800
       },
-      "2127_A - Mix Mex Max": {
+      "2133_A - Redstone?": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 4,
+    "solved": 5,
     "specialist": 0
   }
 }
