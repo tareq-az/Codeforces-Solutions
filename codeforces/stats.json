@@ -1,15 +1,19 @@
 {
   "codeforces": {
-    "solved": 1,
-    "newbie": 1,
-    "specialist": 0,
     "expert": 0,
     "master": 0,
+    "newbie": 2,
     "shas": {
       "2123_B - Tournament": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2130_A - Submission is All You Need": {
         "rating": 800,
         "category": "newbie"
       }
-    }
+    },
+    "solved": 2,
+    "specialist": 0
   }
 }
