@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 3,
+    "newbie": 4,
     "shas": {
       "2123_B - Tournament": {
         "category": "newbie",
@@ -13,11 +13,15 @@
         "rating": 800
       },
       "2131_B - Alternating Series": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2127_A - Mix Mex Max": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 3,
+    "solved": 4,
     "specialist": 0
   }
 }
