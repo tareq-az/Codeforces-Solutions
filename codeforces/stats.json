@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 8,
+    "newbie": 9,
     "shas": {
       "2123_B - Tournament": {
         "category": "newbie",
@@ -33,11 +33,15 @@
         "rating": 800
       },
       "2137_A - Collatz Conjecture": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2139_A - Maple and Multiplication": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 8,
+    "solved": 9,
     "specialist": 0
   }
 }
