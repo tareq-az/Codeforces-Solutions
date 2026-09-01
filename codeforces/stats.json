@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 7,
+    "newbie": 8,
     "shas": {
       "2123_B - Tournament": {
         "category": "newbie",
@@ -29,11 +29,15 @@
         "rating": 800
       },
       "2134_A - Painting With Two Colors": {
+        "category": "newbie",
+        "rating": 800
+      },
+      "2137_A - Collatz Conjecture": {
         "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 7,
+    "solved": 8,
     "specialist": 0
   }
 }
