@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 16,
+    "newbie": 17,
     "shas": {
       "2121_A - Letter Home": {
         "category": "newbie",
@@ -56,6 +56,10 @@
         "category": "newbie",
         "rating": 900
       },
+      "2246_B - ezraft and Array": {
+        "category": "newbie",
+        "rating": 900
+      },
       "2247_B - Yet Another Constructive": {
         "category": "newbie",
         "rating": 900
@@ -64,12 +68,12 @@
         "category": "newbie",
         "rating": 900
       },
-      "2246_B - ezraft and Array": {
+      "2136_B - Like the Bitset": {
         "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 16,
+    "solved": 17,
     "specialist": 0
   }
 }
