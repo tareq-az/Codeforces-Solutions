@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 13,
+    "newbie": 14,
     "shas": {
       "2121_A - Letter Home": {
         "category": "newbie",
@@ -48,16 +48,20 @@
         "category": "newbie",
         "rating": 800
       },
+      "2247_B - Yet Another Constructive": {
+        "category": "newbie",
+        "rating": 900
+      },
       "2254_B - Evanescent": {
         "category": "newbie",
         "rating": 900
       },
-      "2247_B - Yet Another Constructive": {
+      "2225_B - Alternating String": {
         "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 13,
+    "solved": 14,
     "specialist": 0
   }
 }
