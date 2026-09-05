@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 18,
+    "newbie": 19,
     "shas": {
       "2121_A - Letter Home": {
         "category": "newbie",
@@ -73,11 +73,15 @@
         "rating": 900
       },
       "2259_A - Moo Language School": {
+        "category": "newbie",
+        "rating": "Unrated"
+      },
+      "2259_B - Minus Two": {
         "rating": "Unrated",
         "category": "newbie"
       }
     },
-    "solved": 18,
+    "solved": 19,
     "specialist": 0
   }
 }
