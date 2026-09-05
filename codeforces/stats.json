@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 17,
+    "newbie": 18,
     "shas": {
       "2121_A - Letter Home": {
         "category": "newbie",
@@ -40,6 +40,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "2136_B - Like the Bitset": {
+        "category": "newbie",
+        "rating": 900
+      },
       "2137_A - Collatz Conjecture": {
         "category": "newbie",
         "rating": 800
@@ -68,12 +72,12 @@
         "category": "newbie",
         "rating": 900
       },
-      "2136_B - Like the Bitset": {
-        "rating": 900,
+      "2259_A - Moo Language School": {
+        "rating": "Unrated",
         "category": "newbie"
       }
     },
-    "solved": 17,
+    "solved": 18,
     "specialist": 0
   }
 }
