@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 15,
+    "newbie": 16,
     "shas": {
       "2121_A - Letter Home": {
         "category": "newbie",
@@ -52,6 +52,10 @@
         "category": "newbie",
         "rating": 900
       },
+      "2232_B - Cake Leveling": {
+        "category": "newbie",
+        "rating": 900
+      },
       "2247_B - Yet Another Constructive": {
         "category": "newbie",
         "rating": 900
@@ -60,12 +64,12 @@
         "category": "newbie",
         "rating": 900
       },
-      "2232_B - Cake Leveling": {
+      "2246_B - ezraft and Array": {
         "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 15,
+    "solved": 16,
     "specialist": 0
   }
 }
