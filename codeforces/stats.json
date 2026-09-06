@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 19,
+    "newbie": 20,
     "shas": {
       "2121_A - Letter Home": {
         "category": "newbie",
@@ -77,11 +77,15 @@
         "rating": "Unrated"
       },
       "2259_B - Minus Two": {
-        "rating": "Unrated",
+        "category": "newbie",
+        "rating": "Unrated"
+      },
+      "2113_A - Shashliks": {
+        "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 19,
+    "solved": 20,
     "specialist": 0
   }
 }
