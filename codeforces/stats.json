@@ -2,8 +2,12 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 20,
+    "newbie": 21,
     "shas": {
+      "2113_A - Shashliks": {
+        "category": "newbie",
+        "rating": 800
+      },
       "2121_A - Letter Home": {
         "category": "newbie",
         "rating": 800
@@ -80,12 +84,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2113_A - Shashliks": {
-        "rating": 800,
+      "2140_B - Another Divisibility Problem": {
+        "rating": 900,
         "category": "newbie"
       }
     },
-    "solved": 20,
+    "solved": 21,
     "specialist": 0
   }
 }
