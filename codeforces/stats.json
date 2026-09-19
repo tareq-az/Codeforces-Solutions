@@ -2,7 +2,7 @@
   "codeforces": {
     "expert": 0,
     "master": 0,
-    "newbie": 21,
+    "newbie": 22,
     "shas": {
       "2113_A - Shashliks": {
         "category": "newbie",
@@ -56,6 +56,10 @@
         "category": "newbie",
         "rating": 800
       },
+      "2140_B - Another Divisibility Problem": {
+        "category": "newbie",
+        "rating": 900
+      },
       "2225_B - Alternating String": {
         "category": "newbie",
         "rating": 900
@@ -84,12 +88,12 @@
         "category": "newbie",
         "rating": "Unrated"
       },
-      "2140_B - Another Divisibility Problem": {
-        "rating": 900,
+      "2114_A - Square Year": {
+        "rating": 800,
         "category": "newbie"
       }
     },
-    "solved": 21,
+    "solved": 22,
     "specialist": 0
   }
 }
